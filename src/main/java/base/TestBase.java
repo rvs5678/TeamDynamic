@@ -36,6 +36,7 @@ public static void initialization() {
 	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	driver.get(prop.getProperty("url"));
 }	
+
 	
 public static void tearDown() {
 	driver.close();

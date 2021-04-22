@@ -20,7 +20,7 @@ public class tuitionAndFinancingPage extends TestBase{
 	
 	}
 	
-	public void tuitionAndinancingLink() {
+	public void tuitionAndFinancingLink() {
 		tuitionAndFinancingLink.click();
 		
 	}
