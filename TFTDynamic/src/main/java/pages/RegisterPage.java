@@ -49,7 +49,9 @@ public class RegisterPage extends TestBase{
 	public String getRegisterPageTitle() {
 		return driver.getTitle();
 	}
-
+	public String getLoginSuccessPage() {
+		return driver.getTitle();
+	}
 	
 	
 	
